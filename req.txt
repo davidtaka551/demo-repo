@@ -1,0 +1,1 @@
+in this file you will find any info that you need to know about git
